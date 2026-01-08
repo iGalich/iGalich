@@ -1,5 +1,3 @@
-- Hi, I'm Iliya Galich, a software engineering student.
-- I'm intersted in game design and programming.
-- Currently working on school projects and personal game development projects
-- Looking to collaborating on game development projects.
-- Reach me via email: revangalich@gmail.com
+-Software Engineering student with a strong foundation in C#, C, Java, and C++.
+-Currently developing a commercially targeted PC game using Unity and C#.
+-Interested in software development, game systems, and building well-structured, maintainable code.
