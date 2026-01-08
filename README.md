@@ -1,3 +1,3 @@
--Software Engineering student with a strong foundation in C#, C, Java, and C++.
--Currently developing a commercially targeted PC game using Unity and C#.
--Interested in software development, game systems, and building well-structured, maintainable code.
+- Software Engineering student with a strong foundation in C#, C, Java, and C++.
+- Currently developing a commercially targeted PC game using Unity and C#.
+- Interested in software development, game systems, and building well-structured, maintainable code.
